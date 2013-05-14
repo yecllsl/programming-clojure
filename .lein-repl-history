@@ -1,0 +1,10 @@
+(requre 'examples.introduction)
+(require 'examples.introduction)
+(take 10 examples.introduction/fibs)
+(doc string)
+(doc str)
+src/examples/exploring.clj
+ls
+examples/exploring.clj
+exploring.clj
+./src/examples/exploring.clj
